@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "tmate-ssh-server-operator",
+  "versions": [
+    {
+      "commit": "7fedfcfbf13c06316fac8a6e0016c2d2f10bc9fd",
+      "tag": "rev51",
+      "parsed_at": "2026-11-08T04:27:26.551646+00:00"
+    }
+  ]
+}
