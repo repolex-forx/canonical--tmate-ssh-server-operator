@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/canonical/tmate-ssh-server-operator/commit/7fedfcfbf13c06316fac8a6e0016c2d2f10bc9fd",
       "git:hexsha": "7fedfcfbf13c06316fac8a6e0016c2d2f10bc9fd",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "tf-1.0.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "tf-1.0.0",
+      "repolex:parsedAt": "2026-11-08T04:27:26.540729+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/tmate-ssh-server-operator/commit/5bfb40bf03585c6d6e4dece74a18a3ed3d9ddc52",
