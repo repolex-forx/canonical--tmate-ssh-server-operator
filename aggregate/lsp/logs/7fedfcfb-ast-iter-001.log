@@ -1,0 +1,7 @@
+[2026-11-08T04:26:16Z] === AST ITERATION 1 START | repo=canonical/tmate-ssh-server-operator sha=7fedfcfb ===
+[2026-11-08T04:26:16Z] [iter=1] PHASE START: ast repo=canonical/tmate-ssh-server-operator sha=7fedfcfb
+[2026-11-08T04:26:16Z] [iter=1] Building AST aggregate chunks
+[2026-11-08T04:26:35Z] [iter=1] AST chunks built count=1 triples=182490
+[2026-11-08T04:26:35Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/7fedfcfbf13c06316fac8a6e0016c2d2f10bc9fd/.complete
+[2026-11-08T04:26:35Z] [iter=1] PHASE END: ast elapsed_s=19 elapsed_min=0.3
+[2026-11-08T04:26:35Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
